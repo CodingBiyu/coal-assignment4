@@ -2,7 +2,7 @@
 jmp start
 
 
-num1: dw 1, 6, 2, 4, 3
+num1: dw 2, 3, 8, 3, 5
 results: dw 0
 
 max:
